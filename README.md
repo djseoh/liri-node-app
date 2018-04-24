@@ -29,3 +29,5 @@ This project will use the following:
 # Who is doing what?
 Daniel Seoh is handling:
 * Everything
+
+![alt text](images/screenshot.png "Logo Title Text 1")
